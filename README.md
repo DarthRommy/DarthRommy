@@ -1,4 +1,4 @@
-- I’m @DarthRommy. Glad to see you ^^b
+I’m Rommy. Pleased to meet you ^^b
 
 <!---
 DarthRommy/DarthRommy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
